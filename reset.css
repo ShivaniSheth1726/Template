@@ -4,3 +4,10 @@
     padding: 0;
     box-sizing: border-box;
   }
+  body {
+    font-family: Inter, sans-serif;
+    background-color: #7a7adb;
+    background-image: linear-gradient(277deg, #602f60 0%, #170e13 74%);
+    color: white;
+    min-height: 100vh;
+  }
