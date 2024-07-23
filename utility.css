@@ -1,0 +1,12 @@
+/* 
+    MARK: Utility 
+*/
+.flex {
+    display: flex;
+  }
+  .justify-between {
+    justify-content: space-between;
+  }
+  .cursor {
+    cursor: pointer;
+  }
